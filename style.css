@@ -31,11 +31,11 @@ a {
       font-weight: 400;
       padding: 8px 12px;
       transition: color 0.3s;
-    }
+    } 
 
-a {
-      
-      color: orangered;
+    #topbar ul li a:hover {
+
+      color:indigo;
     }
 }
 
