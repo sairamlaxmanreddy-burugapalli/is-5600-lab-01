@@ -34,4 +34,23 @@ a {
      
       color: #007BFF;
    }
+   } 
+
+   .card {
+
+      background-color: #fff; 
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      margin: 20px;
+      width: 300px;
+   }
+
+   .card img {
+      width: 100%;
+      height: auto;
+   }
+
+   .card div {
+      padding: 15px;
    }
