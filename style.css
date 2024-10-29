@@ -33,7 +33,7 @@ a {
       transition: color 0.3s;
     }
 
-    #topbar ul li a:hover {
+a {
       
       color: orangered;
     }
